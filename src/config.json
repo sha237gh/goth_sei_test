@@ -1,23 +1,37 @@
 {
-    "name":"My Project",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
-    "website":"",
-    "twitter":"",
-    "discord":"",
-    "rpc":"",
-    "network":"atlantic-2", 
-    "collection_address":"", 
+    "token_uri": "https://arweave.net/MCd6UvtxjtNSfdW3H965e6TwJNLKMo5Zdv2oqdP912o",
+    "network": "pacific-1",
+    "rpc": "https://rpc.sei-apis.com",
+    "royalty_wallet": "sei1j82qce7fl5a0csm6uledgjl8ml0r3flm0pvrqw",
+    "description": "GOTH TEST",
+    "royalty_percent": 7,
+    "website": "",
+    "discord": "",
+    "twitter": "",
+    "supply": 6,
+    "name": "GOTH TEST",
+    "symbol": "GGTEST",
+    "iterated_uri": false,
+    "start_order": 0,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
     "nft_name_type": "default",
-    "groups":[
+    "collection_address": "sei1efalx4utkcdl5k2sck9ufe38cmymx77nshem33j302wqvujez5pscdfmkv",
+    "groups": [
         {
-            "name":"whitelist",
-            "allowlist":[
-                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
-                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
-            ] 
-        },
-        {
-            "name":"public"
+            "name": "public",
+            "merkle_root": null,
+            "max_tokens": 0,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei1j82qce7fl5a0csm6uledgjl8ml0r3flm0pvrqw",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-01-10T08:08:00Z",
+            "end_time": null
         }
     ]
 }

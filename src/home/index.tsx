@@ -619,7 +619,7 @@ const Home = () => {
                                             {config.name}
                                         </C.TitleMobile>
                                         <C.Image>
-                                            <img src="/images/launch.png" alt="launch" />
+                                            <img src="https://s4gzyu7p2ns7se52vg63ilhlvwzl2ek453by6jwpeov3hz6mmhca.arweave.net/lw2cU-_TZfkTuqm9tCzrrbK9EVzuw48mzyOrs-fMYcQ/0.png" alt="launch" />
                                         </C.Image>
                                         <C.MintInfo>
                                             <C.Price>
